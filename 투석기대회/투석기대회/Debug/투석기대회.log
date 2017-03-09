@@ -1,0 +1,11 @@
+﻿  solution.c
+c:\users\neo\documents\visual studio 2015\projects\투석기대회\투석기대회\solution.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\neo\documents\visual studio 2015\projects\투석기대회\투석기대회\solution.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\neo\documents\visual studio 2015\projects\투석기대회\투석기대회\solution.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\neo\documents\visual studio 2015\projects\투석기대회\투석기대회\solution.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  투석기대회.vcxproj -> C:\Users\neo\documents\visual studio 2015\Projects\투석기대회\Debug\투석기대회.exe
+  투석기대회.vcxproj -> C:\Users\neo\documents\visual studio 2015\Projects\투석기대회\Debug\투석기대회.pdb (Full PDB)
